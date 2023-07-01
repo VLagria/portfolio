@@ -1,6 +1,6 @@
 <div class="container" data-aos="zoom-in" data-aos-delay="100">
     <h1>Vincent Lagria</h1>
-    <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+    <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Innovator"></span></p>
     <div class="social-links">
       <a href="https://twitter.com/_bckdev" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
       <a href="https://www.facebook.com/profile.php?id=100090738021669" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>

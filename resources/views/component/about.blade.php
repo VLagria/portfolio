@@ -18,7 +18,7 @@
           <div class="col-lg-6">
             <ul>
               <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>May 29, 2000</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.vlagria.in</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.vincentlagria.onweb.im</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+63 977 117 0727</span></li>
              
             </ul>
